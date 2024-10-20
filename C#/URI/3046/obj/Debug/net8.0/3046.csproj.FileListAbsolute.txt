@@ -1,0 +1,15 @@
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3046\obj\Debug\net8.0\3046.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3046\obj\Debug\net8.0\3046.AssemblyInfoInputs.cache
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3046\obj\Debug\net8.0\3046.AssemblyInfo.cs
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3046\obj\Debug\net8.0\3046.csproj.CoreCompileInputs.cache
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3046\obj\Debug\net8.0\3046.sourcelink.json
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3046\bin\Debug\net8.0\3046.exe
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3046\bin\Debug\net8.0\3046.deps.json
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3046\bin\Debug\net8.0\3046.runtimeconfig.json
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3046\bin\Debug\net8.0\3046.dll
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3046\bin\Debug\net8.0\3046.pdb
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3046\obj\Debug\net8.0\3046.dll
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3046\obj\Debug\net8.0\refint\3046.dll
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3046\obj\Debug\net8.0\3046.pdb
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3046\obj\Debug\net8.0\3046.genruntimeconfig.cache
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3046\obj\Debug\net8.0\ref\3046.dll

@@ -1,0 +1,14 @@
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\2413\obj\Debug\net8.0\2413.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\2413\obj\Debug\net8.0\2413.AssemblyInfoInputs.cache
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\2413\obj\Debug\net8.0\2413.AssemblyInfo.cs
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\2413\obj\Debug\net8.0\2413.csproj.CoreCompileInputs.cache
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\2413\bin\Debug\net8.0\2413.exe
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\2413\bin\Debug\net8.0\2413.deps.json
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\2413\bin\Debug\net8.0\2413.runtimeconfig.json
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\2413\bin\Debug\net8.0\2413.dll
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\2413\bin\Debug\net8.0\2413.pdb
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\2413\obj\Debug\net8.0\2413.dll
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\2413\obj\Debug\net8.0\refint\2413.dll
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\2413\obj\Debug\net8.0\2413.pdb
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\2413\obj\Debug\net8.0\2413.genruntimeconfig.cache
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\2413\obj\Debug\net8.0\ref\2413.dll

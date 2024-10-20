@@ -1,0 +1,1 @@
+Regex_Pattern = r"^\w\w\w\w\w\W$"	# Do not delete 'r'.

@@ -1,0 +1,23 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+
+    int a, b, c, d;
+
+    cin >> a >> b >> c >> d;
+
+    if(a+b>c && a+c>b && b+c>a)
+        printf("S\n");
+    else if(b+c>d && b+d>c && c+d>b)
+        printf("S\n");
+    else if(a+c>d && a+d>c && c+d>a)
+        printf("S\n");
+    else if(a+b>d && b+d>a && a+d>b)
+        printf("S\n");
+    else
+        printf("N\n");
+
+}

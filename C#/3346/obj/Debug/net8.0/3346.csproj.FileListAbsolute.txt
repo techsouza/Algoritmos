@@ -1,0 +1,14 @@
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\3346\bin\Debug\net8.0\3346.exe
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\3346\bin\Debug\net8.0\3346.deps.json
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\3346\bin\Debug\net8.0\3346.runtimeconfig.json
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\3346\bin\Debug\net8.0\3346.dll
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\3346\bin\Debug\net8.0\3346.pdb
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\3346\obj\Debug\net8.0\3346.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\3346\obj\Debug\net8.0\3346.AssemblyInfoInputs.cache
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\3346\obj\Debug\net8.0\3346.AssemblyInfo.cs
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\3346\obj\Debug\net8.0\3346.csproj.CoreCompileInputs.cache
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\3346\obj\Debug\net8.0\3346.dll
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\3346\obj\Debug\net8.0\refint\3346.dll
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\3346\obj\Debug\net8.0\3346.pdb
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\3346\obj\Debug\net8.0\3346.genruntimeconfig.cache
+C:\Users\w.souza\OneDrive\Programacao\Algoritmos\C#\3346\obj\Debug\net8.0\ref\3346.dll

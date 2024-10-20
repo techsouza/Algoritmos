@@ -1,0 +1,14 @@
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\1103\obj\Debug\net8.0\1103.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\1103\obj\Debug\net8.0\1103.AssemblyInfoInputs.cache
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\1103\obj\Debug\net8.0\1103.AssemblyInfo.cs
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\1103\obj\Debug\net8.0\1103.csproj.CoreCompileInputs.cache
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\1103\bin\Debug\net8.0\1103.exe
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\1103\bin\Debug\net8.0\1103.deps.json
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\1103\bin\Debug\net8.0\1103.runtimeconfig.json
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\1103\bin\Debug\net8.0\1103.dll
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\1103\bin\Debug\net8.0\1103.pdb
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\1103\obj\Debug\net8.0\1103.dll
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\1103\obj\Debug\net8.0\refint\1103.dll
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\1103\obj\Debug\net8.0\1103.pdb
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\1103\obj\Debug\net8.0\1103.genruntimeconfig.cache
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\1103\obj\Debug\net8.0\ref\1103.dll

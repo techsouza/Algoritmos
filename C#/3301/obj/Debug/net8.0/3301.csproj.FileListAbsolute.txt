@@ -1,0 +1,14 @@
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3301\obj\Debug\net8.0\3301.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3301\obj\Debug\net8.0\3301.AssemblyInfoInputs.cache
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3301\obj\Debug\net8.0\3301.AssemblyInfo.cs
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3301\obj\Debug\net8.0\3301.csproj.CoreCompileInputs.cache
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3301\bin\Debug\net8.0\3301.exe
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3301\bin\Debug\net8.0\3301.deps.json
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3301\bin\Debug\net8.0\3301.runtimeconfig.json
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3301\bin\Debug\net8.0\3301.dll
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3301\bin\Debug\net8.0\3301.pdb
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3301\obj\Debug\net8.0\3301.dll
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3301\obj\Debug\net8.0\refint\3301.dll
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3301\obj\Debug\net8.0\3301.pdb
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3301\obj\Debug\net8.0\3301.genruntimeconfig.cache
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3301\obj\Debug\net8.0\ref\3301.dll

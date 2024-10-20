@@ -1,0 +1,14 @@
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3214\obj\Debug\net8.0\3214.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3214\obj\Debug\net8.0\3214.AssemblyInfoInputs.cache
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3214\obj\Debug\net8.0\3214.AssemblyInfo.cs
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3214\obj\Debug\net8.0\3214.csproj.CoreCompileInputs.cache
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3214\bin\Debug\net8.0\3214.exe
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3214\bin\Debug\net8.0\3214.deps.json
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3214\bin\Debug\net8.0\3214.runtimeconfig.json
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3214\bin\Debug\net8.0\3214.dll
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3214\bin\Debug\net8.0\3214.pdb
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3214\obj\Debug\net8.0\3214.dll
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3214\obj\Debug\net8.0\refint\3214.dll
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3214\obj\Debug\net8.0\3214.pdb
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3214\obj\Debug\net8.0\3214.genruntimeconfig.cache
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\3214\obj\Debug\net8.0\ref\3214.dll

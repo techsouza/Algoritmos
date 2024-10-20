@@ -5,7 +5,7 @@ public class Uri_1142 {
 
     public static void main(String[] args) {
 
-        try (Scanner leia = new Scanner(System.in)) {
+        try (Scanner leia = new Scanner()) {
             int n;
             n = leia.nextInt();
             int a=1, b=2, c=3;

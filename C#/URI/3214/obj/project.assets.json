@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\w.souza\\OneDrive\\Programação\\Algoritmos\\C#\\3214\\3214.csproj",
+      "projectUniqueName": "C:\\Users\\w.souza\\OneDrive\\Programação\\Algoritmos\\C#\\URI\\3214\\3214.csproj",
       "projectName": "3214",
-      "projectPath": "C:\\Users\\w.souza\\OneDrive\\Programação\\Algoritmos\\C#\\3214\\3214.csproj",
+      "projectPath": "C:\\Users\\w.souza\\OneDrive\\Programação\\Algoritmos\\C#\\URI\\3214\\3214.csproj",
       "packagesPath": "C:\\Users\\w.souza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\w.souza\\OneDrive\\Programação\\Algoritmos\\C#\\3214\\obj\\",
+      "outputPath": "C:\\Users\\w.souza\\OneDrive\\Programação\\Algoritmos\\C#\\URI\\3214\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\w.souza\\AppData\\Roaming\\NuGet\\NuGet.Config"

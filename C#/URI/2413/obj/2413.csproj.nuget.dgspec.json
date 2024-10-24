@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\w.souza\\OneDrive\\Programacao\\Algoritmos\\C#\\2413\\2413.csproj": {}
+    "C:\\Users\\w.souza\\OneDrive\\Programação\\Algoritmos\\C#\\URI\\2413\\2413.csproj": {}
   },
   "projects": {
-    "C:\\Users\\w.souza\\OneDrive\\Programacao\\Algoritmos\\C#\\2413\\2413.csproj": {
+    "C:\\Users\\w.souza\\OneDrive\\Programação\\Algoritmos\\C#\\URI\\2413\\2413.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\w.souza\\OneDrive\\Programacao\\Algoritmos\\C#\\2413\\2413.csproj",
+        "projectUniqueName": "C:\\Users\\w.souza\\OneDrive\\Programação\\Algoritmos\\C#\\URI\\2413\\2413.csproj",
         "projectName": "2413",
-        "projectPath": "C:\\Users\\w.souza\\OneDrive\\Programacao\\Algoritmos\\C#\\2413\\2413.csproj",
+        "projectPath": "C:\\Users\\w.souza\\OneDrive\\Programação\\Algoritmos\\C#\\URI\\2413\\2413.csproj",
         "packagesPath": "C:\\Users\\w.souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\w.souza\\OneDrive\\Programacao\\Algoritmos\\C#\\2413\\obj\\",
+        "outputPath": "C:\\Users\\w.souza\\OneDrive\\Programação\\Algoritmos\\C#\\URI\\2413\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\w.souza\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

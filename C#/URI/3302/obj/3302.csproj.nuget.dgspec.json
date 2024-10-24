@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\w.souza\\OneDrive\\Programacao\\Algoritmos\\C#\\3302\\3302.csproj": {}
+    "C:\\Users\\w.souza\\OneDrive\\Programação\\Algoritmos\\C#\\URI\\3302\\3302.csproj": {}
   },
   "projects": {
-    "C:\\Users\\w.souza\\OneDrive\\Programacao\\Algoritmos\\C#\\3302\\3302.csproj": {
+    "C:\\Users\\w.souza\\OneDrive\\Programação\\Algoritmos\\C#\\URI\\3302\\3302.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\w.souza\\OneDrive\\Programacao\\Algoritmos\\C#\\3302\\3302.csproj",
+        "projectUniqueName": "C:\\Users\\w.souza\\OneDrive\\Programação\\Algoritmos\\C#\\URI\\3302\\3302.csproj",
         "projectName": "3302",
-        "projectPath": "C:\\Users\\w.souza\\OneDrive\\Programacao\\Algoritmos\\C#\\3302\\3302.csproj",
+        "projectPath": "C:\\Users\\w.souza\\OneDrive\\Programação\\Algoritmos\\C#\\URI\\3302\\3302.csproj",
         "packagesPath": "C:\\Users\\w.souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\w.souza\\OneDrive\\Programacao\\Algoritmos\\C#\\3302\\obj\\",
+        "outputPath": "C:\\Users\\w.souza\\OneDrive\\Programação\\Algoritmos\\C#\\URI\\3302\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\w.souza\\AppData\\Roaming\\NuGet\\NuGet.Config"

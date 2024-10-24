@@ -1,0 +1,15 @@
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3299\bin\Debug\net8.0\3299.exe
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3299\bin\Debug\net8.0\3299.deps.json
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3299\bin\Debug\net8.0\3299.runtimeconfig.json
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3299\bin\Debug\net8.0\3299.dll
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3299\bin\Debug\net8.0\3299.pdb
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3299\obj\Debug\net8.0\3299.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3299\obj\Debug\net8.0\3299.AssemblyInfoInputs.cache
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3299\obj\Debug\net8.0\3299.AssemblyInfo.cs
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3299\obj\Debug\net8.0\3299.csproj.CoreCompileInputs.cache
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3299\obj\Debug\net8.0\3299.sourcelink.json
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3299\obj\Debug\net8.0\3299.dll
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3299\obj\Debug\net8.0\refint\3299.dll
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3299\obj\Debug\net8.0\3299.pdb
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3299\obj\Debug\net8.0\3299.genruntimeconfig.cache
+C:\Users\w.souza\OneDrive\Programação\Algoritmos\C#\URI\3299\obj\Debug\net8.0\ref\3299.dll
